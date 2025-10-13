@@ -68,7 +68,7 @@ Run the following to get the sparse vectors.
 ### Step 6: Evaluate the sparse vector.
 
 ```python
-  python /home/ilin/p4_intentCr_known/script/eval_hybrid.py --file_path "$file_path" --method H
+  python eval.py --file_path "$file_path" --method H
 ```
 * The file_path is the file end with .json.  .npz will be load directly by the script based on the json file you give.
 * Other possible method: H means HDBSCAN, K means Kmeans.
