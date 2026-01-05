@@ -1,5 +1,3 @@
-
-
 # LLMs Enable Bag-of-Texts Representations for Short-Text Clustering
 
 ## Introduction
